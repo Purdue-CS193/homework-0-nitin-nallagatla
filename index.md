@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+# Nitin Nallagatla's First CS193 Homework
+
+My favorite things about CS 193:
+- The homework. Ironically, the homework for this class is one of the most interesting variations on the concept I have seen.
+- The practicality. GIT is always something I have struggled with and something I really should know more about, so I'm hoping this class address that need.
+- The instructors. The instructors for this class (Elijah Colwill and Eddie Kim) seem both like personable and intelligent teachers that will make this semester most interesting. Looking forward to working with you!
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
